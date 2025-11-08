@@ -24,5 +24,5 @@ A client-server based Java Swing application to generate and manage student ID c
 4. Enter details → Choose photo → Generate ID.
 
 ## Author
-Anto Jenishia
-Rajalakshmi Institute of Technology
+Anto Jenishia A
+II year, AIML
