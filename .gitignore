@@ -1,0 +1,38 @@
+# Environment & Credentials
+.env
+
+# Java Build Artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.iml
+
+# OS and Cache Files
+.DS_Store
+Thumbs.db
+
+# Generated & Temporary Files
+/photos/
+*.png
+*.jpg
+*.jpeg
+/generated_cards/
+
+# Logs
+*.log
+
+# Build & Output Directories
+out/
+bin/
+target/
+
+# Temporary or Backup Files
+*~
+*.tmp
+*.bak
+
